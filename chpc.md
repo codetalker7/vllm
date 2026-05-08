@@ -5,6 +5,10 @@ For `v0.20.1`:
     git remote add upstream https://github.com/vllm-project/vllm
     git fetch upstream --tags
 
+# syncing my-dev branch with main
+
+    g switch my-dev
+    g rebase main
 
 # installation steps
 
